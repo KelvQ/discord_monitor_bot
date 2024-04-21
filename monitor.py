@@ -15,7 +15,7 @@ with open("token.txt") as file:
     TOKEN = file.read()
 
 # Channel ID where you want the bot to send messages
-CHANNEL_ID = 1231326056795865198  
+CHANNEL_ID = 1234567890  
 
 # Define your monitor region
 monitor_region = (1464, 171, 311, 43)
